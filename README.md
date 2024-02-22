@@ -19,7 +19,7 @@ To get started with this project, follow these steps:
 Access swagger api documentation
 
 ```
-GET /api
+GET http://localhost:3000/api
 ```
 
 ![image](https://github.com/hmsvitor/cs2-skins-api/assets/49028929/950014b9-b851-432f-b296-666a7736cc4d)
