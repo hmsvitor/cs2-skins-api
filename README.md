@@ -11,7 +11,8 @@ To get started with this project, follow these steps:
 1. Clone this repository.
 2. Install dependencies using `npm install`.
 3. Set up your MongoDB connection in the `.env` file.
-4. Start the server using `npm run start`.
+4. Run `npm run seed:initial` to populate the database.
+5. Start the server using `npm run start`.
 
 ## API Documentation
 
